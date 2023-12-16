@@ -1,7 +1,3 @@
-# ML-NorthwellHealth-LDA_Research-Assistant
-
-
-## Introduction
 
 ## This research is in partnership with Northwell Health, New York State's largest healthcare provider and private employer. It invites engagement in the exploration of unstructured medical data, intending to reveal latent patterns and unveil critical insights that promise to enrich our understanding of healthcare communication.
 
