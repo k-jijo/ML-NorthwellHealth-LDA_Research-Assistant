@@ -5,7 +5,7 @@
 
 ## This research is in partnership with Northwell Health, New York State's largest healthcare provider and private employer. It invites engagement in the exploration of unstructured medical data, intending to reveal latent patterns and unveil critical insights that promise to enrich our understanding of healthcare communication.
 
-Abstract
+#Abstract
 
 The exponential surge in unstructured healthcare data presents a challenge in extracting actionable insights for healthcare professionals. This study employs Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP) to uncover latent topical features crucial for informing Healthcare Professionals.
 
